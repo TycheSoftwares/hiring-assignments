@@ -1,5 +1,3 @@
-# hiring-assignments
-
 # How to start?
 1. Select the folder of the job position you wish to apply for.
 2. In case of multiple challenges for a single job role, choose the one that interests you the most.
